@@ -12,24 +12,24 @@ const port = 3001;
 
 const db = {
   users: {
-    'bouclierman@herocorp.io': {
+    'etchebest@gastronomie.com': {
       id: 1,
-      password: 'jennifer',
-      username: 'John',
+      password: 'cauchemar',
+      username: 'Philippe',
       color: '#c23616',
       favorites: [21453, 462],
     },
-    'acidman@herocorp.io': {
+    'mercote@patissere.fr': {
       id: 2,
-      password: 'fructis',
-      username: 'Burt',
+      password: 'gateau',
+      username: 'Mercote',
       color: '#009432',
       favorites: [8965, 11],
     },
-    'captain.sportsextremes@herocorp.io': {
+    'gordon@ramsay.com': {
       id: 3,
-      password: 'pingpong',
-      username: 'Karin',
+      password: 'hell',
+      username: 'Gordon',
       color: '#f0f',
       favorites: [8762],
     }
